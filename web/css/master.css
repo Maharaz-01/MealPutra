@@ -1,0 +1,12 @@
+table{
+  border: 2px solid black; text-align: center; margin:auto;background-color: lightblue
+}
+th{
+  border-bottom:3px solid black;
+}
+td{
+  border-bottom:2px solid black;
+}
+body{
+  background-color:black;
+}
